@@ -1,9 +1,9 @@
-## Olá Prazer Kevin
+## Olá Prazer Thiago
 
 
-- 🔭 Hoje trabalho com front-end
-- 📫 Estudando Desenvolvimento Full Stack, Local instituição da Trybe
-- 💬 Contate-me no e-mail: droysr4@gmail.com
+- 🔭 Hoje trabalho com Logística
+- 📫 Estudando e
+- 💬 Contate-me no e-mail: ts9590104@gmail.com
 - --------------------- 😄 ---------------------
 
 <div align="center">
@@ -25,7 +25,7 @@
   <a href="https://www.youtube.com/channel/UCHcfFBAX-pr35mc2JKVF_xg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/kvn_news04/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/kvn_news04" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:droysr4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:ts9590104@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kevin-n-silva-55770320a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
