@@ -1,8 +1,8 @@
 ## Olá Prazer Thiago
 
 
-- 🔭 Hoje trabalho com Logística
-- 📫 Estudando e
+- 🔭 Front-End Developer
+- 📫 Estudando Técnico em Informática
 - 💬 Contate-me no e-mail: ts9590104@gmail.com
 - --------------------- 😄 ---------------------
 
