@@ -4,7 +4,7 @@
 - 🔭 Front-End Developer
 - 📫 Estudando Técnico em Informática
 - 💬 Contate-me no e-mail: ts9590104@gmail.com
-- --------------------- 😄 ---------------------
+ --------------------- 😄 ---------------------
 
 <div align="center">
   <a href="https://github.com/Tigas011">
